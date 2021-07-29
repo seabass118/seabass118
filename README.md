@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-   Seb / Web Developer 🐧
+   seabass118 🐧
 </h1>
 
 <p align='center'>
