@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-   Seb Blackley / Web Developer 🐧
+   Seb / Web Developer 🐧
 </h1>
 
 <p align='center'>
